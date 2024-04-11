@@ -1,4 +1,4 @@
-# midact1
+# bookstore
 
 ## Project setup
 ```
